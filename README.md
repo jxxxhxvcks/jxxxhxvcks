@@ -11,8 +11,7 @@
   <tr>
     <td>
 
-[![GitHub repos](https://img.shields.io/github/repos/jxxxhxvcks?color=black&style=flat-square)](https://github.com/jxxxhxvcks)
-[![GitHub followers](https://img.shields.io/github/followers/jxxxhxvcks?color=black&style=flat-square)](https://github.com/jxxxhxvcks)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&theme=dark&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff)](https://github.com/jxxxhxvcks)
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
 
