@@ -11,7 +11,7 @@
   <tr>
     <td>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&theme=default&hide_title=true&hide_border=true&text_color=222222&icon_color=222222)](https://github.com/jxxxhxvcks)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&count_private=true&theme=default&hide_title=true&hide_border=true&hide_rank=true&hide=issues,contribs)](https://github.com/jxxxhxvcks)
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
 
