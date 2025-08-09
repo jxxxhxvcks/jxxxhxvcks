@@ -1,17 +1,23 @@
-### Olá, meu nome é João André!
+# João André
+
+### Sobre mim  
+- Desenvolvedor focado em projetos práticos.  
+- Curto código limpo e minimalismo.  
 
 ---
 
-<div style="display: flex; gap: 20px; justify-content: flex-end;">
+### 📊 Estatísticas
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&cache_seconds=2300" alt="Status do GitHub" width="340" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&cache_seconds=2300" alt="Linguagens mais usadas" width="340" />
-
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&theme=transparent&hide_title=true&hide_border=true&text_color=000000&icon_color=000000)](https://github.com/jxxxhxvcks)
 
 ---
 
-<p>
-Sou desenvolvedor iniciante em Python, com foco em Desenvolvimento Web fullstack.
-</p>
+### 🛠 Tecnologias mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=transparent&hide_border=true&text_color=000000)](https://github.com/jxxxhxvcks)
+
+---
+
+### Contato  
+- github.com/jxxxhxvcks  
+- instagram.com/joaocoding
