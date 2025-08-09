@@ -7,7 +7,21 @@
 
 ### Estatísticas
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&theme=default&hide_title=true&hide_border=true&text_color=000000&icon_color=000000)](https://github.com/jxxxhxvcks)
+<table>
+  <tr>
+    <td>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&theme=light&hide_title=true&hide_border=true&text_color=000000&icon_color=000000)](https://github.com/jxxxhxvcks)
+
+    </td>
+    <td>
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jxxxhxvcks&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@jxxxhxvcks)
+
+    </td>
+  </tr>
+</table>
+
 
 ### Tecnologias mais usadas
 
