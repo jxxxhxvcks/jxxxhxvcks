@@ -13,7 +13,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits,issues,pulls&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000&cache_seconds=0)](https://wakatime.com/@lywsmic)
 
     </td>
   </tr>
@@ -21,7 +21,7 @@
 
 ### Tecnologias mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=light&hide_border=true&text_color=000000)](https://github.com/jxxxhxvcks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=light&hide_border=true&text_color=000000&cache_seconds=0)](https://github.com/jxxxhxvcks)
 
 ### Contatos  
 
