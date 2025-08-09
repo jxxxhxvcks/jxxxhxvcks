@@ -11,6 +11,7 @@
   <tr>
     <td>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&exclude_repo=nome-do-repositorio&layout=compact&theme=light&hide_border=true&text_color=000000)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits,issues,pulls&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
