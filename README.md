@@ -1,9 +1,9 @@
 # João André
 
 ### Sobre mim  
+- Iniciante em Python, dedicado a ingressar na área de desenvolvimento web fullstack.
 - Desenvolvedor focado em projetos práticos.  
-- Curto código limpo e minimalismo.  
-
+- Clean Code, Clear Mind.
 
 ### Estatísticas
 
