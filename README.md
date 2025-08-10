@@ -7,36 +7,28 @@
 - Desenvolvedor focado em projetos práticos.  
 - Clean Code, Clear Mind.
 
-### Estatísticas  
+### Estatísticas
 
-<div align="center">
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)  
+### Tempo de Codando
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
 
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=light&hide_border=true&text_color=000000)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+### Resumo do Perfil
 
-</div>
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=light&hide_border=true&text_color=000000)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Tecnologias mais usadas  
+### Tecnologias mais usadas
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=light&hide_border=true&text_color=000000)](https://github.com/jxxxhxvcks)  
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=light&hide_border=true&text_color=000000)](https://github.com/jxxxhxvcks)
 
 ### Contatos  
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://github.com/jxxxhxvcks)  
-[![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074)  
-[![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/joaocoding)  
-[![Email](https://img.shields.io/badge/email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF)](mailto:joaoandreferreira47@gmail.com)  
-
-</div>
+[![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://github.com/jxxxhxvcks) 
+[![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074) 
+[![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/joaocoding)
+[![Email](https://img.shields.io/badge/email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF)](mailto:joaoandreferreira47@gmail.com)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake-dark.svg">
