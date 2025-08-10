@@ -1,36 +1,68 @@
-# Aprendendo, Codando, Evoluindo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000"/>
 
-### Sobre mim  
-- Iniciante em Python, dedicado a ingressar na área de Desenvolvimento Web fullstack.  
-- Desenvolvedor focado em projetos práticos.  
-- Clean Code, Clear Mind.
+<br>
 
-### Estatísticas
+<div align="center">
+  <samp>
+    <b>`Desenvolvedor Web`</b>
+    <br>
+    Olá! Eu sou <b>João Hacks</b>  
+    Focado em desenvolvimento Full Stack
+  </samp>
+</div>
 
-<table>
-  <tr>
-    <td>
+<br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)
+<div align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjxxxhxvcks&s=21&c=000000&bg=00000000&no=2&ff=digi&tb=Visitas+ao+perfil%3A+&ta=" />
+</div>
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
+<br>
 
-  </tr>
-</table>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000000&width=900&size=22&center=true&lines=Estudante+de+Desenvolvimento+Web;Backend+e+Frontend;Em+constante+aprendizado" alt="Typing SVG"/>
+</div>
 
-### Tecnologias mais usadas
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=light&hide_border=true&text_color=000000)](https://github.com/jxxxhxvcks)
+<details align="center">
+  <summary><samp><b>Mais informações</b></samp></summary>
+  <br>
 
-### Contatos  
+<div align="center">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&count_private=true&hide_title=true&theme=graywhite" />
+  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=graywhite&langs_count=8" />
+  <br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=graywhite" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://github.com/jxxxhxvcks) 
-[![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074) 
-[![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/joaocoding)
-[![Email](https://img.shields.io/badge/email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF)](mailto:joaoandreferreira47@gmail.com)
+<br>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+</div>
+
+<br>
+
+##
+
+<div align="center">
+  <samp><b>Contato</b></samp>
+  <br><br>
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoandreferreira47@gmail.com)
+  [![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074) 
+  [![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/joaocoding)
+  
+</div>
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
