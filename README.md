@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=ffffff"/>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&size=28&center=true&width=600&lines=Aprendendo,+Codando,+Evoluindo" alt="Typing SVG"/>
@@ -34,4 +34,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=100&section=footer"/>
