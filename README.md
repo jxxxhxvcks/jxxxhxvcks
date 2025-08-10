@@ -17,7 +17,7 @@
 
 ### Resumo do Perfil
 
-[![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=solarized_light)
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=solarized_light)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Tecnologias mais usadas
 
