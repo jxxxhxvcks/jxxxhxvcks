@@ -1,54 +1,40 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff"/>
 
-<br>
+# Aprendendo, Codando, Evoluindo
 
-<div align="center">
-  <samp>
-    <b>`Iniciante em Python`</b>
-    <br>
-    Olá! Eu sou <b>João André</b>  
-    Com foco em desenvolvimento web
-  </samp>
-</div>
+### Sobre mim  
+- Iniciante em Python, dedicado a ingressar na área de Desenvolvimento Web fullstack.  
+- Desenvolvedor focado em projetos práticos.  
+- Clean Code, Clear Mind.
 
-<br>
+### Estatísticas
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=22&center=true&lines=Iniciante+em+Python;Foco+em+Desenvolvimento+Web;Aprendendo+Frontend+e+Backend" alt="Typing SVG"/>
-</div>
+<table>
+  <tr>
+    <td>
 
-<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)
 
-<div align="center">
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&count_private=true&hide_title=true&theme=graywhite" />
-</div>
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
 
-<br>
+  </tr>
+</table>
 
-<div align="center">
-  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=graywhite&langs_count=8" />
-</div>
+### Tecnologias mais usadas
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=light&hide_border=true&text_color=000000)](https://github.com/jxxxhxvcks)
 
-<div align="center">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-</div>
+### Contatos  
 
-<br>
+[![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://github.com/jxxxhxvcks) 
+[![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074) 
+[![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/joaocoding)
+[![Email](https://img.shields.io/badge/email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF)](mailto:joaoandreferreira47@gmail.com)
 
-##
-
-<div align="center">
-  <samp><b>Contato</b></samp>
-  <br><br>
-  [![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://github.com/jxxxhxvcks) 
-  [![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074) 
-  [![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/joaocoding)
-  [![Email](https://img.shields.io/badge/email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF)](mailto:joaoandreferreira47@gmail.com)
-</div>
-
-<br>
-<br>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jxxxhxvcks/jxxxhxvcks/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
