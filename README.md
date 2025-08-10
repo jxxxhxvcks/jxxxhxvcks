@@ -4,10 +4,10 @@
 
 <div align="center">
   <samp>
-    <b>`Desenvolvedor Web`</b>
+    <b>`Iniciante em Python`</b>
     <br>
-    Olá! Eu sou <b>João Hacks</b>  
-    Focado em desenvolvimento Full Stack
+    Olá! Eu sou <b>João André</b>  
+    Com foco em desenvolvimento web
   </samp>
 </div>
 
@@ -20,19 +20,19 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000000&width=900&size=22&center=true&lines=Estudante+de+Desenvolvimento+Web;Backend+e+Frontend;Em+constante+aprendizado" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000000&width=900&size=22&center=true&lines=Iniciante+em+Python;Foco+em+Desenvolvimento+Web;Aprendendo+Frontend+e+Backend" alt="Typing SVG"/>
 </div>
 
 <br>
 
-<details align="center">
-  <summary><samp><b>Mais informações</b></samp></summary>
-  <br>
-
 <div align="center">
   <img height=165 src="https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=true&count_private=true&hide_title=true&theme=graywhite" />
   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=graywhite&langs_count=8" />
-  <br><br>
+</div>
+
+<br>
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=graywhite" />
 </div>
 
@@ -55,12 +55,8 @@
   <samp><b>Contato</b></samp>
   <br><br>
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoandreferreira47@gmail.com)
-  [![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074) 
-  [![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/joaocoding)
-  
+  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 </div>
-
-</details>
 
 <br>
 <br>
