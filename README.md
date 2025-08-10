@@ -17,6 +17,8 @@
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
 
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=light&hide_border=true&text_color=000000)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
   </tr>
 </table>
 
