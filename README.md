@@ -11,7 +11,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)
 
-### Tempo de Codando
+### Tempo Codando
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
 
