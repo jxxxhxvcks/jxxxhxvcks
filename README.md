@@ -15,11 +15,15 @@
 
 ### Tempo Codando
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000&icon_color=000000&bg_color=ffffff)](https://wakatime.com/@lywsmic)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=default&hide_border=true)](https://wakatime.com/@lywsmic)
+
+### Resumo do Perfil
+
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Tecnologias mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=light&hide_border=true&text_color=000000&icon_color=000000&bg_color=ffffff)](https://github.com/jxxxhxvcks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=default&hide_border=true)](https://github.com/jxxxhxvcks)
 
 ### Contatos  
 
