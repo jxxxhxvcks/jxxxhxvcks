@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff"/>
 
-# Aprendendo, Codando, Evoluindo
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&size=28&center=true&width=600&lines=Aprendendo,+Codando,+Evoluindo" alt="Typing SVG"/>
+</div>
 
 ### Sobre mim  
 - Iniciante em Python, dedicado a ingressar na área de Desenvolvimento Web fullstack.  
@@ -14,10 +16,6 @@
 ### Tempo Codando
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=light&hide_border=true&text_color=000000)](https://wakatime.com/@lywsmic)
-
-### Resumo do Perfil
-
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxxhxvcks&theme=solarized_light)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Tecnologias mais usadas
 
