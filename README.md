@@ -9,14 +9,6 @@
 - Desenvolvedor focado em projetos práticos.  
 - Clean Code, Clear Mind.
 
-### Estatísticas
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jxxxhxvcks&show_icons=false&hide_title=true&hide_border=true&hide=commits&text_color=000000&icon_color=000000&theme=light)](https://github.com/jxxxhxvcks)
-
-### Tempo Codando
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lywsmic&theme=default&hide_border=true)](https://wakatime.com/@lywsmic)
-
 ### Tecnologias mais usadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=default&hide_border=true)](https://github.com/jxxxhxvcks)
