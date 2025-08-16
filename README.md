@@ -11,7 +11,7 @@
 
 ### Tecnologias mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&theme=default&hide_border=true)](https://github.com/jxxxhxvcks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxxhxvcks&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=f4f4f4)](https://github.com/jxxxhxvcks)
 
 ### Contatos  
 
