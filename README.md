@@ -10,10 +10,18 @@
 ### Contatos  
 
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://github.com/jxxxhxvcks)
-  [![Discord](https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF)](https://discordapp.com/users/1189986362619859074)
-  [![Instagram](https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF)](https://instagram.com/whentsapple)
-  [![Email](https://img.shields.io/badge/email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF)](mailto:joaoandreferreira47@gmail.com)
+  <a href="https://github.com/jxxxhxvcks">
+    <img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF">
+  </a>
+  <a href="https://discordapp.com/users/1189986362619859074">
+    <img src="https://img.shields.io/badge/discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF">
+  </a>
+  <a href="https://instagram.com/whentsapple">
+    <img src="https://img.shields.io/badge/instagram-%23FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=000000&color=FFFFFF">
+  </a>
+  <a href="mailto:joaoandreferreira47@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF">
+  </a>
 </p>
 
 <picture align="center">
