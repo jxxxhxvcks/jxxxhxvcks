@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff"/>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&size=28&center=true&width=600&lines=Aprendendo,+Codando,+Evoluindo" alt="Typing SVG"/>
-</div>
+- Aprenendo, Codando, Evoluindo.
 
 ### Sobre mim  
 - Iniciante em Python, dedicado a ingressar na área de Desenvolvimento Web fullstack.  
